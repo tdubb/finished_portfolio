@@ -1,0 +1,51 @@
+body {
+	/*float: left;*/
+	font-family: "Open Sans";
+}
+
+img {
+	width: 70%;
+	border-radius: 50%;
+}
+
+div {
+
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+a {
+	color: black;
+}
+
+div.highlight:hover {
+	background-color: grey;
+}
+
+div.twitter-widget {
+	margin-right: 25px;
+	float: left;
+	width: 20%;
+	border-radius: 2%;
+	box-shadow: 0px 0px 5px;
+	box-sizing: border-box;
+}
+
+div.About {
+	margin-right: 25px;
+	float:left;
+	width: 50%;
+}
+
+nav {
+	float: left;
+	width: 20%;
+	box-shadow: 0px 0px 5px;
+	border-radius: 2%;
+	height: 1800%;
+	text-align: center;
+	box-sizing: border-box;
+	margin: 25px;
+}
